@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: sprint-boot-app
-        image: anmolj115/myimagerepo:latest
+        image: anmolj115/myimagerepo:8
         ports:
         - containerPort: 8080
